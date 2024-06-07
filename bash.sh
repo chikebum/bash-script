@@ -12,7 +12,7 @@ apt purge snapd
 rm -rf ~/snap
 
 sudo apt update
-sudo apt install -y flatpak vlc rhythmbox qbittorrent kolourpaint breeze simple-scan hplip-gui
+sudo apt install -y flatpak vlc rhythmbox qbittorrent kolourpaint breeze simple-scan hplip-gui gnome-shell-extension-manager gnome-tweaks
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install -y --noninteractive flathub com.google.Chrome
 flatpak install -y --noninteractive flathub com.discordapp.Discord
