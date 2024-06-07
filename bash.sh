@@ -45,6 +45,8 @@ flatpak install -y --noninteractive flathub us.zoom.Zoom
 #Install OBS Studio
 flatpak install -y --noninteractive flathub com.obsproject.Studio
 
+#Install Varia Download Manager
+flatpak install -y --noninteractive flathub io.github.giantpinkrobots.varia
 
 
 
