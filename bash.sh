@@ -30,23 +30,11 @@ flatpak install -y --noninteractive flathub org.mozilla.firefox
 #Install OnlyOffice
 flatpak install -y --noninteractive flathub org.onlyoffice.desktopeditors
 
-#Install ZapZap ( Whatsapp Client for Linux )
-flatpak install -y --noninteractive flathub com.rtosta.zapzap
-
 #Install Brave Browser
 flatpak install -y --noninteractive flathub com.brave.Browser
 
 #Install ThunderBird Email Client
 flatpak install -y --noninteractive flathub org.mozilla.Thunderbird
-
-#Install Zoom
-flatpak install -y --noninteractive flathub us.zoom.Zoom
-
-#Install OBS Studio
-flatpak install -y --noninteractive flathub com.obsproject.Studio
-
-#Install Varia Download Manager
-flatpak install -y --noninteractive flathub io.github.giantpinkrobots.varia
 
 
 
